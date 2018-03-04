@@ -1,2 +1,2 @@
-# easter
+# Easter
 C Project
